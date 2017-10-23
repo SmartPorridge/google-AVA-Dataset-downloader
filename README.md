@@ -6,7 +6,7 @@ The AVA dataset densely annotates 80 atomic visual actions in 57.6k movie clips 
 2. precise spatio-temporal annotations with possibly multiple annotations for each human; 
 3. the use of diverse, realistic video material (movies). 
 
-  **More details about the dataset and initial experiments can be found in this** [arXiv paper](https://arxiv.org/abs/1705.08421 "悬停显示"). 
+**More details about the dataset and initial experiments can be found in this** [arXiv paper](https://arxiv.org/abs/1705.08421 "悬停显示"). 
   
 The AVA dataset contains 192 videos split into 154 training and 38 test videos. Each video has 15 minutes annotated in 3 second intervals, resulting in 300 annotated segments. These annotations are specified by two CSV files: [ava_train_v1.0.csv](https://research.google.com/ava/download/ava_train_v1.0.csv "悬停显示") and [ava_test_v1.0.csv](https://research.google.com/ava/download/ava_test_v1.0.csv "悬停显示"). 
 
