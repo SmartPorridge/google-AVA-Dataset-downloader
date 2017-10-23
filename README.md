@@ -1,4 +1,5 @@
 **AVA Atomic Visual Action Dataset**
+
 The AVA dataset densely annotates 80 atomic visual actions in 57.6k movie clips with actions localized in space and time, resulting in 210k action labels with multiple labels per human occurring frequently. The main differences with existing video datasets are: 
 
 1. the definition of atomic visual actions, which avoids collecting data for each and every complex action; 
