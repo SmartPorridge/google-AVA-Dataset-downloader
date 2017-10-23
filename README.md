@@ -49,8 +49,7 @@ Each row contains an annotation for one person performing an action in an interv
 The dataset is made available by Google Inc. under a [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/ "悬停显示").
 
 -------华丽丽的分割线----------
-谷歌发布了新的数据集 AVA（atomic visual actions），提供扩展视频序列中每个人的多个动作标签。AVA 包括 YouTube 公开视频的 URL，使用包含 80 个原子动作（atomic action）集进行标注（如「走路」、「踢（某物）」、「握手」），所有动作都有时空定位，从而产生 57.6k 视频片段、96k 标注人类动作和 210k 动作标签。
 
-**仓库中有AVA的训练和测试annotations，也有所有视频的Youtube ID， 以及所有类别的labels**
+谷歌发布了新的数据集 AVA（atomic visual actions），提供扩展视频序列中每个人的多个动作标签。AVA 包括 YouTube 公开视频的 URL，使用包含 80 个原子动作（atomic action）集进行标注（如「走路」、「踢（某物）」、「握手」），所有动作都有时空定位，从而产生 57.6k 视频片段、96k 标注人类动作和 210k 动作标签。
 
 部分视频因为版权原因在国内下载不到，谷歌提供了告诉缓存供大家下载，可以先在[here](http://thoth.inrialpes.fr/ava/requestaccess.php "悬停显示")注册成为学术用途，非常简单，不需要账号，同意不作商业用途之后，就可以得到账号和密码，既可以下载这部分视频。
