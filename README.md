@@ -12,6 +12,9 @@ The AVA dataset contains 192 videos split into 154 training and 38 test videos. 
 
 Each row contains an annotation for one person performing an action in an interval, where that annotation is associated with the middle frame. Different persons and multiple action labels are described in separate rows. 
 
+The Youtube video IDs (train split) is [ava_ytids_train_v1.0.txt](./ava_ytids_train_v1.0.txt)
+The Youtube video IDs (test split) is [ava_ytids_test_v1.0.txt](./ava_ytids_test_v1.0.txt)
+
 **The format of a row is the following: video_id, middle_frame_timestamp, person_box, action_id**
 1. video_id: YouTube identifier
 2. middle_frame_timestamp: in seconds from the start of the YouTube.
