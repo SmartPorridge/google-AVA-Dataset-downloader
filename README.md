@@ -1,8 +1,8 @@
 **Google AVA Dataset**
 
-**仓库中有AVA的训练和测试annotations，也有所有视频的Youtube ID， 以及所有类别的labels，以及部分因为版权原因下载不到的视频下载方法。**
+**This repository contains the train and test annotations, all the youtube video IDs, action_id and some videos may be inaccessible on Youtube from your location.**
 
-**This repository contains the train and test annotations, all the youtube video IDs, action_id and some videos may be inaccessible on Youtube from your location.
+**仓库中有AVA的训练和测试annotations，也有所有视频的Youtube ID， 以及所有类别的labels，以及部分因为版权原因下载不到的视频下载方法。**
 
 The AVA dataset densely annotates 80 atomic visual actions in 57.6k movie clips with actions localized in space and time, resulting in 210k action labels with multiple labels per human occurring frequently. The main differences with existing video datasets are: 
 
@@ -53,22 +53,4 @@ The dataset is made available by Google Inc. under a [Creative Commons Attributi
 
 **仓库中有AVA的训练和测试annotations，也有所有视频的Youtube ID， 以及所有类别的labels**
 
-部分视频因为版权原因在国内下载不到，谷歌提供了告诉缓存供大家下载，先在[here](http://thoth.inrialpes.fr/ava/requestaccess.php "悬停显示")注册成为学术用途，非常简单，不需要账号，同意不作商业用途之后，就可以得到账号和密码，既可以下载这部分视频：
-
-	-FaXLcSFjUI.mp4	2017-07-17 14:50	365M	 
-	0f39OWEqJ24.mp4	2017-07-17 14:36	437M	 
-	2XeFK-DTSZk.mkv	2017-08-08 03:12	270M	 
-	4trIFq61-lk.mkv	2017-07-24 03:13	454M	 
-	EQZWzLyx-GM.mkv	2017-09-07 03:22	242M	 
-	F_-zE1dQsso.mkv	2017-08-02 03:24	225M	 
-	G3nRbyu0gMs.mp4	2017-07-17 14:51	218M	 
-	K--hW14uzA0.mkv	2017-09-12 03:29	877M	 
-	KHHgQ_Pe4cI.mkv	2017-08-08 03:29	845M	 
-	N0Dt9i9IUNg.mkv	2017-07-17 15:00	426M	 
-	PmElx9ZVByw.mp4	2017-07-17 15:04	431M	 
-	XIx-C22Ewk4.mp4	2017-08-09 03:47	788M	 
-	ZFQ3lF6yq_E.mkv	2017-08-01 03:49	459M	 
-	_2Isct32Msg.mkv	2017-08-26 03:11	627M	 
-	bnW1PXGt5hw.mp4	2017-07-17 14:46	379M	 
-	lSCEt_mCHlM.mkv	2017-07-17 14:59	2.6G	 
-	nxL0yqWP3H0.mkv	2017-07-17 15:01	659M	
+部分视频因为版权原因在国内下载不到，谷歌提供了告诉缓存供大家下载，可以先在[here](http://thoth.inrialpes.fr/ava/requestaccess.php "悬停显示")注册成为学术用途，非常简单，不需要账号，同意不作商业用途之后，就可以得到账号和密码，既可以下载这部分视频。
