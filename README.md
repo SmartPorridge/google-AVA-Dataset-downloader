@@ -1,6 +1,6 @@
 **Google AVA Dataset**
 
-**This repository contains the train and test annotations, all the youtube video IDs, action_id and some videos may be inaccessible on Youtube from your location.**
+**This repository contains the train and test annotations, all the videos' youtube IDs, action_id and some videos may be inaccessible on Youtube from your location.**
 
 **仓库中有AVA的训练和测试annotations，也有所有视频的Youtube ID， 以及所有类别的labels，以及部分因为版权原因下载不到的视频下载方法。**
 
