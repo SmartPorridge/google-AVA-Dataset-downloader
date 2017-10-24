@@ -25,9 +25,7 @@ Each row contains an annotation for one person performing an action in an interv
 **The Youtube video IDs (train split) is** [ava_ytids_train_v1.0.txt](./ava_ytids_train_v1.0.txt)
 **The Youtube video IDs (test split) is** [ava_ytids_test_v1.0.txt](./ava_ytids_test_v1.0.txt)
 
-To download youtube videos, you need youtube-dl:
-
- youtube-dl (https://github.com/rg3/youtube-dl/),for example:
+To download youtube videos, you need [youtube-dl](https://github.com/rg3/youtube-dl/) , for example:
  
      youtube-dl -f best -f mp4 55Ihr6uVIDA -o "video_data/55Ihr6uVIDA.mp4"
      
