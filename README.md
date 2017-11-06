@@ -1,6 +1,6 @@
 **Download Google AVA Dataset**
 
-——————————————————————————————————————————————————————————————————————————————————————
+——————————————————————————————————————
 
 
 ！！！更新百度云下载链接：请直接点击链接：http://pan.baidu.com/s/1c1YqGhE 密码：iyzx
@@ -8,8 +8,7 @@
 ！！！Please directly click http://pan.baidu.com/s/1c1YqGhE password: iyzx
 
 
-______________________________________________________________________________________
-
+_______________________________________
 
 **This repository contains the train and test annotations, all the videos' youtube IDs, action_id and some videos may be inaccessible on Youtube from your location.**
 
@@ -42,7 +41,7 @@ To download youtube videos, you need [youtube-dl](https://github.com/rg3/youtube
      
 ***Please note that some videos may be inaccessible on Youtube from your location.If you are a researcher interested in the whole dataset, click [here](http://thoth.inrialpes.fr/ava/requestaccess.php "悬停显示") for more information. And then you can download this part of videos after aome operations.***
 
--FaXLcSFjUI.mp4	2017-07-17 14:50	365M	 
+        -FaXLcSFjUI.mp4	2017-07-17 14:50	365M	 
 	0f39OWEqJ24.mp4	2017-07-17 14:36	437M	 
 	2XeFK-DTSZk.mkv	2017-08-08 03:12	270M	 
 	4trIFq61-lk.mkv	2017-07-24 03:13	454M	 
