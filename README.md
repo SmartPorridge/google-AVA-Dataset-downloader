@@ -1,4 +1,12 @@
-**Google AVA Dataset && Download!!**
+**Download Google AVA Dataset**
+
+——————————————————————————————————————————————————————————————————————————————————————
+
+！！！更新百度云下载链接：请直接点击链接：http://pan.baidu.com/s/1c1YqGhE 密码：iyzx
+
+Please directly click http://pan.baidu.com/s/1c1YqGhE password: iyzx
+
+______________________________________________________________________________________
 
 **This repository contains the train and test annotations, all the videos' youtube IDs, action_id and some videos may be inaccessible on Youtube from your location.**
 
