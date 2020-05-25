@@ -3,8 +3,9 @@
 ——————————————————————————————————————
 
 
-！！！更新百度云下载链接：请直接点击链接：链接: https://pan.baidu.com/s/12yuOSUKXdPsak4QRphyJfQ 提取码: rmqp
+！！！更新百度云下载链接：链接: https://pan.baidu.com/s/1DBi8WOlVHawqjgOIO_fjOA 提取码: s4r6 
 
+** 欢迎关注公众号“arXiv每日学术速递”，获取每日CV、NLP、AI等方向的学术信息哦
 _______________________________________
 
 **This repository contains the train and test annotations, all the videos' youtube IDs, action_id and some videos may be inaccessible on Youtube from your location.**
