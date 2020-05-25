@@ -3,7 +3,7 @@
 ——————————————————————————————————————
 
 
-！！！更新百度云下载链接：链接: https://pan.baidu.com/s/1DBi8WOlVHawqjgOIO_fjOA 提取码: s4r6 
+！！！更新百度云下载链接：链接: https://pan.baidu.com/s/1iUDhSMv9flaQo2ryjRmx7w 提取码: 4zxc
 
 ** 欢迎关注公众号“arXiv每日学术速递”，获取每日CV、NLP、AI等方向的学术信息哦,扫码关注
 
