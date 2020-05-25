@@ -2,10 +2,11 @@
 
 ——————————————————————————————————————
 
+**分享链接被百度屏蔽了，说是侵权或色情，，，，需要点对点分享，有需要下载的可以添加我微信“smartporridge”，备注ava数据下载，点对点发链接吧。
 
 ！！！更新百度云下载链接：链接: https://pan.baidu.com/s/1iUDhSMv9flaQo2ryjRmx7w 提取码: 4zxc
 
-** 欢迎关注公众号“arXiv每日学术速递”，获取每日CV、NLP、AI等方向的学术信息哦,扫码关注
+**另外欢迎关注公众号“arXiv每日学术速递”，获取每日CV、NLP、AI等方向的学术信息哦,扫码关注
 
 ![image](https://github.com/SmartPorridge/google-AVA-Dataset-downloader/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AF%8F%E6%97%A5%E5%86%85%E5%AE%B9.jpg)
 ![image](https://github.com/SmartPorridge/google-AVA-Dataset-downloader/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
