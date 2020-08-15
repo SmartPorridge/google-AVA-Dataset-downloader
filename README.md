@@ -11,9 +11,6 @@
 ！！更新百度云下载链接：链接: https://pan.baidu.com/s/1iUDhSMv9flaQo2ryjRmx7w 提取码: 4zxc
 
 另外欢迎关注公众号“**arXiv每日学术速递**”，获取每日CV、NLP、AI等方向的学术信息哦,扫码关注
-
-![image](https://github.com/SmartPorridge/google-AVA-Dataset-downloader/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
-
 _______________________________________
 
 **This repository contains the train and test annotations, all the videos' youtube IDs, action_id and some videos may be inaccessible on Youtube from your location.**
@@ -73,3 +70,5 @@ The dataset is made available by Google Inc. under a [Creative Commons Attributi
 谷歌发布了新的数据集 AVA（atomic visual actions），提供扩展视频序列中每个人的多个动作标签。AVA 包括 YouTube 公开视频的 URL，使用包含 80 个原子动作（atomic action）集进行标注（如「走路」、「踢（某物）」、「握手」），所有动作都有时空定位，从而产生 57.6k 视频片段、96k 标注人类动作和 210k 动作标签。
 
 部分视频因为版权原因在国内下载不到，谷歌提供了高速缓存供大家下载，可以先在[here](http://thoth.inrialpes.fr/ava/requestaccess.php "悬停显示")注册成为学术用途，非常简单，不需要账号，同意不作商业用途之后，就可以得到账号和密码，既可以下载这部分视频。
+
+![image](https://github.com/SmartPorridge/google-AVA-Dataset-downloader/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
