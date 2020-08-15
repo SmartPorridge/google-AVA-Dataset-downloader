@@ -12,7 +12,6 @@
 
 另外欢迎关注公众号“**arXiv每日学术速递**”，获取每日CV、NLP、AI等方向的学术信息哦,扫码关注
 
-![image](https://github.com/SmartPorridge/google-AVA-Dataset-downloader/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AF%8F%E6%97%A5%E5%86%85%E5%AE%B9.jpg)
 ![image](https://github.com/SmartPorridge/google-AVA-Dataset-downloader/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
 _______________________________________
